@@ -1,5 +1,5 @@
 # React Tooltip
-## This is a simple react tooltip,which takes in Position of the ToopTip [top,left,bottom,right] as a prop and displays it accordingly.
+## This is a simple react tooltip,which takes in position [top,left,bottom,right] as a prop and displays it accordingly.
 ## Hosted GH-Page : https://anuragzv1.github.io/tooltip/
 
 ## How to install?
