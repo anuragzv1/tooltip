@@ -1,0 +1,19 @@
+.active{
+    background-color: white;
+    color:red
+}
+
+body{
+    background:antiquewhite;
+}
+
+.hover-div{
+    transition-property: background-color;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier();
+    background-color:red;
+}
+
+.hover-div:hover{
+    background-color: rgb(201, 28, 28);
+}
