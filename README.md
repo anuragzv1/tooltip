@@ -4,10 +4,10 @@
 
 ## How to install?
 
-1)Clone the master-branch of this Git repo.  
-2)Navigate to the folder and open terminal in it.  
-3)Run command `npm install` - this will install the porject on your local machine  
-4)Run command `npm start` - this will open the browser and run the app  
-5)In case you are stuck ? Ping me at anuragz[dot]v1[at]gmail[dot]com  
+1) Clone the master-branch of this Git repo.  
+2) Navigate to the folder and open terminal in it.  
+3) Run command `npm install` - this will install the porject on your local machine  
+4) Run command `npm start` - this will open the browser and run the app  
+5) In case you are stuck ? Ping me at anuragz[dot]v1[at]gmail[dot]com  
 
 ## Screenshots
